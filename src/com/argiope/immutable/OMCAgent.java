@@ -3,7 +3,7 @@ package com.argiope.immutable;
 /**
  * 操作者
  * 模式角色ImmutableObject.manipulator
- * Created by asiainfo on 2017/1/20.
+ * Created by leeXiang on 2017/1/20.
  */
 public class OMCAgent extends Thread {
     @Override
